@@ -1,0 +1,21 @@
+.DS_Store
+*.pyc
+*.pdf
+*.aux
+*.log
+*.tex
+*.svg
+*.tif
+*.html
+*/*_files/
+**/.ipynb_checkpoints/*
+/data/mobility_raw/*
+/outputs/*
+/data/population/gadm_input_json/*
+/data/population/gadm_est/*
+/sync/*
+/preview_plots/*
+/preview_text/*
+# pixi environments
+.pixi
+*.egg-info
